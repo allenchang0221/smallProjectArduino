@@ -107,7 +107,7 @@ void loop() {
           myDisplayMatrix[i][(k + l) % 8][7 - j] = 1;  //模擬時7-j改成j
         }
         updateScreen3D();
-        delay(200 -(i*8+j)*10);
+        delay(300 -(i*8+j)*9);
         if (digitalRead(2)) {
           while (digitalRead(2)) {
           }
