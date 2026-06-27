@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\sip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|solutionrelative:sip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|c:\\users\\user\\source\\repos\\smallprojectarduino\\sip\\sip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|solutionrelative:sip\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|c:\\users\\user\\source\\repos\\smallprojectarduino\\sip\\sip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF6B4F8E-875D-4741-A621-25AB8F911909}|SIP\\SIP.csproj|solutionrelative:sip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SIP\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.Designer.cs",
+              "RelativeToolTip": "SIP\\Form1.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:49:28.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.cs",
+              "RelativeDocumentMoniker": "SIP\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.cs",
+              "RelativeToolTip": "SIP\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:47:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.cs",
+              "RelativeDocumentMoniker": "SIP\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\smallProjectArduino\\SIP\\SIP\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "SIP\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T11:47:28.195Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
